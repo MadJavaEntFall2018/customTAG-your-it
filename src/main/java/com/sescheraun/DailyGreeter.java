@@ -26,8 +26,18 @@ public class DailyGreeter extends SimpleTagSupport {
             greet = "Good Morning";
         }
 
+        int day = localDate.getDayOfMonth();
+        int month = localDate.getMonthValue();
+        int year = localDate.getYear();
+
+
         JspWriter out = getJspContext().getOut();
+
         out.println(greet);
+
+        if (day == 2 && month == 2) {
+            out.println("Bill Murray is kind of annoyed cause GROUND HOG DAY");
+        }
 
     }
 

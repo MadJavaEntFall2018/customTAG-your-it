@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c09b657-4b3f-4dad-a0ce-0fbdd08a0184" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sescheraun/DailyGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sescheraun/DailyGreeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sescheraun/HelloTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sescheraun/HelloTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/custom.tld" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/custom.tld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sescheraun/DailyGreeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sescheraun/HelloTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customTags-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/customTags-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,14 +55,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="547" />
+          <entry key="java" value="725" />
           <entry key="tld" value="25" />
           <entry key="webapp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="547" />
+          <entry key="JAVA" value="725" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="25" />
         </counts>
@@ -125,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sescheraun/DailyGreeter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="468">
+              <caret line="38" column="79" lean-forward="true" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -275,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537729209615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537730739318" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TAGTEST" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -311,12 +305,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537722973138</updated>
-      <workItem from="1537722975641" duration="6003000" />
+      <workItem from="1537722975641" duration="6961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6003000" />
+    <option name="totallyTimeSpent" value="6961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
@@ -329,13 +323,13 @@
       <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3075314" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3075314" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294979" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sescheraun/DailyGreeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="468">
+          <caret line="38" column="79" lean-forward="true" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
