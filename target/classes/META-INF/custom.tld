@@ -1,0 +1,12 @@
+<taglib xmlns="jar:///home/student/intellij/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspdirectives.xsd">
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Tag Lib Demo</short-name>
+    <uri>http://sescheraun.com</uri>
+    <tag>
+        <name>Hello</name>
+        <tag-class>com.sescheraun.HelloTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+</taglib>
