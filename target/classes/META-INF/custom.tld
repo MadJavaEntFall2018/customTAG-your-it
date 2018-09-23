@@ -9,4 +9,9 @@
         <body-content>empty</body-content>
     </tag>
 
+    <tag>
+        <name>DailyGreeter</name>
+        <tag-class>com.sescheraun.HelloTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
 </taglib>
