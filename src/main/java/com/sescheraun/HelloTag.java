@@ -11,7 +11,7 @@ public class HelloTag extends SimpleTagSupport{
     public void doTag() throws JspException, IOException {
         super.doTag();
         JspWriter out = getJspContext().getOut();
-        out.println("This is the first test to see if this worked");
+        out.println("blah blah blah");
 
     }
 }

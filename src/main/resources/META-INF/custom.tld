@@ -11,7 +11,7 @@
 
     <tag>
         <name>DailyGreeter</name>
-        <tag-class>com.sescheraun.HelloTag</tag-class>
+        <tag-class>com.sescheraun.DailyGreeter</tag-class>
         <body-content>empty</body-content>
     </tag>
 </taglib>
